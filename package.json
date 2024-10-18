@@ -2,7 +2,7 @@
   "name": "youdaodict-cli",
   "type": "module",
   "bin": {
-    "yd": "./index.js"
+    "yd": "index.js"
   },
   "dependencies": {
     "axios": "^1.7.7",
@@ -13,5 +13,6 @@
     "is-chinese": "^2.0.0",
     "no-case": "^4.0.0",
     "urlencode": "^2.0.0"
-  }
+  },
+  "version": "1.0.0"
 }
