@@ -1,0 +1,17 @@
+{
+  "name": "youdaodict-cli",
+  "type": "module",
+  "bin": {
+    "yd": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0",
+    "cli-spinner": "^0.2.10",
+    "configstore": "^7.0.0",
+    "is-chinese": "^2.0.0",
+    "no-case": "^4.0.0",
+    "urlencode": "^2.0.0"
+  }
+}
